@@ -1,4 +1,4 @@
-iint main()
+int main()
 {
     uint8_t buf_data[32];//encrypted buff
     unsigned char c_data[] = {"abcd"};//buff to be encrypted
